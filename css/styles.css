@@ -22,13 +22,25 @@ h3 {
     font-family: 'Montserrat', sans-serif;
 }
 
+h4 {
+    font-family: 'Montserrat',
+    sans-serif;
+}
+
+h5 {
+    font-family: 'Montserrat',
+    sans-serif;
+}
+
+h6 {
+    font-family: 'Montserrat',
+    sans-serif;
+}
+
 p {
     line-height: 2;
 }
 
-h5 {
-    text-decoration-color: lightgrey;
-}
 
 hr {
     border: dotted #CEAB93 6px;
@@ -71,7 +83,7 @@ hr {
 }
 
 .education-row {
-    width: 50%;
+    width: 30%;
     margin: 100px auto;
     text-align: left;
 }
